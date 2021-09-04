@@ -192,6 +192,16 @@ namespace Calculadora_V._1._0
         {
 
         }
+
+        private void button66_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button95_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 
