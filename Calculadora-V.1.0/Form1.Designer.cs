@@ -421,11 +421,11 @@ namespace Calculadora_V._1._0
             // panel2
             // 
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Enabled = false;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(893, 461);
             this.panel2.TabIndex = 19;
+            this.panel2.Visible = false;
             // 
             // Form1
             // 
