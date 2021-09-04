@@ -173,6 +173,20 @@ namespace Calculadora_V._1._0
             panel2.Visible = false;
             panel2.Enabled = false;
         }
+
+        private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AcercaDe Acercade = new AcercaDe();
+
+            Acercade.ShowDialog();
+        }
+
+        private void ayudaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ayuda ayuda = new Ayuda();
+
+            ayuda.ShowDialog();
+        }
     }
     }
 
