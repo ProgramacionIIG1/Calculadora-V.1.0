@@ -1177,7 +1177,7 @@ namespace Calculadora_V._1._0
             this.button62.BackColor = System.Drawing.Color.Silver;
             this.button62.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button62.ForeColor = System.Drawing.Color.Black;
-            this.button62.Location = new System.Drawing.Point(1049, 260);
+            this.button62.Location = new System.Drawing.Point(1035, 260);
             this.button62.Name = "button62";
             this.button62.Size = new System.Drawing.Size(96, 36);
             this.button62.TabIndex = 43;
@@ -1189,7 +1189,7 @@ namespace Calculadora_V._1._0
             this.button63.BackColor = System.Drawing.Color.Silver;
             this.button63.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button63.ForeColor = System.Drawing.Color.Black;
-            this.button63.Location = new System.Drawing.Point(1049, 213);
+            this.button63.Location = new System.Drawing.Point(1035, 213);
             this.button63.Name = "button63";
             this.button63.Size = new System.Drawing.Size(96, 36);
             this.button63.TabIndex = 42;
@@ -1201,7 +1201,7 @@ namespace Calculadora_V._1._0
             this.button64.BackColor = System.Drawing.Color.Silver;
             this.button64.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button64.ForeColor = System.Drawing.Color.Black;
-            this.button64.Location = new System.Drawing.Point(1049, 171);
+            this.button64.Location = new System.Drawing.Point(1035, 171);
             this.button64.Name = "button64";
             this.button64.Size = new System.Drawing.Size(96, 36);
             this.button64.TabIndex = 41;
@@ -1213,7 +1213,7 @@ namespace Calculadora_V._1._0
             this.button65.BackColor = System.Drawing.Color.Silver;
             this.button65.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button65.ForeColor = System.Drawing.Color.Black;
-            this.button65.Location = new System.Drawing.Point(1049, 129);
+            this.button65.Location = new System.Drawing.Point(1035, 129);
             this.button65.Name = "button65";
             this.button65.Size = new System.Drawing.Size(96, 36);
             this.button65.TabIndex = 40;
@@ -1225,7 +1225,7 @@ namespace Calculadora_V._1._0
             this.button66.BackColor = System.Drawing.Color.Silver;
             this.button66.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button66.ForeColor = System.Drawing.Color.Black;
-            this.button66.Location = new System.Drawing.Point(927, 302);
+            this.button66.Location = new System.Drawing.Point(903, 302);
             this.button66.Name = "button66";
             this.button66.Size = new System.Drawing.Size(96, 36);
             this.button66.TabIndex = 39;
@@ -1238,7 +1238,7 @@ namespace Calculadora_V._1._0
             this.button67.BackColor = System.Drawing.Color.Silver;
             this.button67.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button67.ForeColor = System.Drawing.Color.Black;
-            this.button67.Location = new System.Drawing.Point(927, 260);
+            this.button67.Location = new System.Drawing.Point(903, 260);
             this.button67.Name = "button67";
             this.button67.Size = new System.Drawing.Size(96, 36);
             this.button67.TabIndex = 38;
@@ -1250,7 +1250,7 @@ namespace Calculadora_V._1._0
             this.button68.BackColor = System.Drawing.Color.Silver;
             this.button68.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button68.ForeColor = System.Drawing.Color.Black;
-            this.button68.Location = new System.Drawing.Point(927, 217);
+            this.button68.Location = new System.Drawing.Point(903, 217);
             this.button68.Name = "button68";
             this.button68.Size = new System.Drawing.Size(96, 36);
             this.button68.TabIndex = 37;
@@ -1262,7 +1262,7 @@ namespace Calculadora_V._1._0
             this.button69.BackColor = System.Drawing.Color.Silver;
             this.button69.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button69.ForeColor = System.Drawing.Color.Black;
-            this.button69.Location = new System.Drawing.Point(927, 171);
+            this.button69.Location = new System.Drawing.Point(903, 171);
             this.button69.Name = "button69";
             this.button69.Size = new System.Drawing.Size(96, 36);
             this.button69.TabIndex = 36;
@@ -1274,9 +1274,9 @@ namespace Calculadora_V._1._0
             this.button70.BackColor = System.Drawing.Color.Silver;
             this.button70.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button70.ForeColor = System.Drawing.Color.Black;
-            this.button70.Location = new System.Drawing.Point(825, 344);
+            this.button70.Location = new System.Drawing.Point(766, 344);
             this.button70.Name = "button70";
-            this.button70.Size = new System.Drawing.Size(198, 36);
+            this.button70.Size = new System.Drawing.Size(233, 36);
             this.button70.TabIndex = 35;
             this.button70.Text = "=";
             this.button70.UseVisualStyleBackColor = false;
@@ -1286,7 +1286,7 @@ namespace Calculadora_V._1._0
             this.button71.BackColor = System.Drawing.Color.Silver;
             this.button71.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button71.ForeColor = System.Drawing.Color.Black;
-            this.button71.Location = new System.Drawing.Point(807, 260);
+            this.button71.Location = new System.Drawing.Point(758, 260);
             this.button71.Name = "button71";
             this.button71.Size = new System.Drawing.Size(96, 36);
             this.button71.TabIndex = 34;
@@ -1298,7 +1298,7 @@ namespace Calculadora_V._1._0
             this.button72.BackColor = System.Drawing.Color.Silver;
             this.button72.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button72.ForeColor = System.Drawing.Color.Black;
-            this.button72.Location = new System.Drawing.Point(807, 218);
+            this.button72.Location = new System.Drawing.Point(758, 217);
             this.button72.Name = "button72";
             this.button72.Size = new System.Drawing.Size(96, 36);
             this.button72.TabIndex = 33;
@@ -1310,7 +1310,7 @@ namespace Calculadora_V._1._0
             this.button73.BackColor = System.Drawing.Color.Silver;
             this.button73.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button73.ForeColor = System.Drawing.Color.Black;
-            this.button73.Location = new System.Drawing.Point(807, 171);
+            this.button73.Location = new System.Drawing.Point(758, 171);
             this.button73.Name = "button73";
             this.button73.Size = new System.Drawing.Size(96, 36);
             this.button73.TabIndex = 32;
@@ -1322,9 +1322,9 @@ namespace Calculadora_V._1._0
             this.button74.BackColor = System.Drawing.Color.Silver;
             this.button74.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button74.ForeColor = System.Drawing.Color.Black;
-            this.button74.Location = new System.Drawing.Point(807, 129);
+            this.button74.Location = new System.Drawing.Point(757, 129);
             this.button74.Name = "button74";
-            this.button74.Size = new System.Drawing.Size(198, 36);
+            this.button74.Size = new System.Drawing.Size(242, 36);
             this.button74.TabIndex = 31;
             this.button74.Text = "MC";
             this.button74.UseVisualStyleBackColor = false;
@@ -1334,7 +1334,7 @@ namespace Calculadora_V._1._0
             this.button75.BackColor = System.Drawing.Color.Silver;
             this.button75.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button75.ForeColor = System.Drawing.Color.Black;
-            this.button75.Location = new System.Drawing.Point(677, 344);
+            this.button75.Location = new System.Drawing.Point(620, 344);
             this.button75.Name = "button75";
             this.button75.Size = new System.Drawing.Size(128, 36);
             this.button75.TabIndex = 30;
@@ -1346,9 +1346,9 @@ namespace Calculadora_V._1._0
             this.button76.BackColor = System.Drawing.Color.Silver;
             this.button76.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button76.ForeColor = System.Drawing.Color.Black;
-            this.button76.Location = new System.Drawing.Point(677, 302);
+            this.button76.Location = new System.Drawing.Point(624, 302);
             this.button76.Name = "button76";
-            this.button76.Size = new System.Drawing.Size(226, 36);
+            this.button76.Size = new System.Drawing.Size(230, 36);
             this.button76.TabIndex = 29;
             this.button76.Text = "MC";
             this.button76.UseVisualStyleBackColor = false;
@@ -1358,7 +1358,7 @@ namespace Calculadora_V._1._0
             this.button77.BackColor = System.Drawing.Color.Silver;
             this.button77.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button77.ForeColor = System.Drawing.Color.Black;
-            this.button77.Location = new System.Drawing.Point(677, 260);
+            this.button77.Location = new System.Drawing.Point(624, 255);
             this.button77.Name = "button77";
             this.button77.Size = new System.Drawing.Size(96, 36);
             this.button77.TabIndex = 28;
@@ -1370,7 +1370,7 @@ namespace Calculadora_V._1._0
             this.button78.BackColor = System.Drawing.Color.Silver;
             this.button78.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button78.ForeColor = System.Drawing.Color.Black;
-            this.button78.Location = new System.Drawing.Point(677, 213);
+            this.button78.Location = new System.Drawing.Point(624, 213);
             this.button78.Name = "button78";
             this.button78.Size = new System.Drawing.Size(96, 36);
             this.button78.TabIndex = 27;
@@ -1382,7 +1382,7 @@ namespace Calculadora_V._1._0
             this.button79.BackColor = System.Drawing.Color.Silver;
             this.button79.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button79.ForeColor = System.Drawing.Color.Black;
-            this.button79.Location = new System.Drawing.Point(677, 171);
+            this.button79.Location = new System.Drawing.Point(624, 171);
             this.button79.Name = "button79";
             this.button79.Size = new System.Drawing.Size(96, 36);
             this.button79.TabIndex = 26;
@@ -1394,7 +1394,7 @@ namespace Calculadora_V._1._0
             this.button80.BackColor = System.Drawing.Color.Silver;
             this.button80.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button80.ForeColor = System.Drawing.Color.Black;
-            this.button80.Location = new System.Drawing.Point(677, 129);
+            this.button80.Location = new System.Drawing.Point(624, 129);
             this.button80.Name = "button80";
             this.button80.Size = new System.Drawing.Size(96, 36);
             this.button80.TabIndex = 25;
@@ -1406,7 +1406,7 @@ namespace Calculadora_V._1._0
             this.button81.BackColor = System.Drawing.Color.Silver;
             this.button81.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button81.ForeColor = System.Drawing.Color.Black;
-            this.button81.Location = new System.Drawing.Point(543, 344);
+            this.button81.Location = new System.Drawing.Point(480, 344);
             this.button81.Name = "button81";
             this.button81.Size = new System.Drawing.Size(96, 36);
             this.button81.TabIndex = 24;
@@ -1418,7 +1418,7 @@ namespace Calculadora_V._1._0
             this.button82.BackColor = System.Drawing.Color.Silver;
             this.button82.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button82.ForeColor = System.Drawing.Color.Black;
-            this.button82.Location = new System.Drawing.Point(543, 302);
+            this.button82.Location = new System.Drawing.Point(480, 297);
             this.button82.Name = "button82";
             this.button82.Size = new System.Drawing.Size(96, 36);
             this.button82.TabIndex = 23;
@@ -1430,7 +1430,7 @@ namespace Calculadora_V._1._0
             this.button83.BackColor = System.Drawing.Color.Silver;
             this.button83.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button83.ForeColor = System.Drawing.Color.Black;
-            this.button83.Location = new System.Drawing.Point(543, 260);
+            this.button83.Location = new System.Drawing.Point(480, 255);
             this.button83.Name = "button83";
             this.button83.Size = new System.Drawing.Size(96, 36);
             this.button83.TabIndex = 22;
@@ -1442,7 +1442,7 @@ namespace Calculadora_V._1._0
             this.button84.BackColor = System.Drawing.Color.Silver;
             this.button84.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button84.ForeColor = System.Drawing.Color.Black;
-            this.button84.Location = new System.Drawing.Point(543, 217);
+            this.button84.Location = new System.Drawing.Point(480, 213);
             this.button84.Name = "button84";
             this.button84.Size = new System.Drawing.Size(96, 36);
             this.button84.TabIndex = 21;
@@ -1454,7 +1454,7 @@ namespace Calculadora_V._1._0
             this.button85.BackColor = System.Drawing.Color.Silver;
             this.button85.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button85.ForeColor = System.Drawing.Color.Black;
-            this.button85.Location = new System.Drawing.Point(543, 171);
+            this.button85.Location = new System.Drawing.Point(480, 171);
             this.button85.Name = "button85";
             this.button85.Size = new System.Drawing.Size(96, 36);
             this.button85.TabIndex = 20;
@@ -1466,7 +1466,7 @@ namespace Calculadora_V._1._0
             this.button86.BackColor = System.Drawing.Color.Silver;
             this.button86.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button86.ForeColor = System.Drawing.Color.Black;
-            this.button86.Location = new System.Drawing.Point(543, 129);
+            this.button86.Location = new System.Drawing.Point(480, 129);
             this.button86.Name = "button86";
             this.button86.Size = new System.Drawing.Size(96, 36);
             this.button86.TabIndex = 19;
@@ -1478,7 +1478,7 @@ namespace Calculadora_V._1._0
             this.button87.BackColor = System.Drawing.Color.Silver;
             this.button87.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button87.ForeColor = System.Drawing.Color.Black;
-            this.button87.Location = new System.Drawing.Point(410, 344);
+            this.button87.Location = new System.Drawing.Point(343, 344);
             this.button87.Name = "button87";
             this.button87.Size = new System.Drawing.Size(95, 36);
             this.button87.TabIndex = 18;
@@ -1490,7 +1490,7 @@ namespace Calculadora_V._1._0
             this.button88.BackColor = System.Drawing.Color.Silver;
             this.button88.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button88.ForeColor = System.Drawing.Color.Black;
-            this.button88.Location = new System.Drawing.Point(410, 302);
+            this.button88.Location = new System.Drawing.Point(343, 297);
             this.button88.Name = "button88";
             this.button88.Size = new System.Drawing.Size(95, 36);
             this.button88.TabIndex = 17;
@@ -1502,7 +1502,7 @@ namespace Calculadora_V._1._0
             this.button89.BackColor = System.Drawing.Color.Silver;
             this.button89.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button89.ForeColor = System.Drawing.Color.Black;
-            this.button89.Location = new System.Drawing.Point(410, 260);
+            this.button89.Location = new System.Drawing.Point(343, 255);
             this.button89.Name = "button89";
             this.button89.Size = new System.Drawing.Size(95, 36);
             this.button89.TabIndex = 16;
@@ -1514,7 +1514,7 @@ namespace Calculadora_V._1._0
             this.button90.BackColor = System.Drawing.Color.Silver;
             this.button90.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button90.ForeColor = System.Drawing.Color.Black;
-            this.button90.Location = new System.Drawing.Point(410, 213);
+            this.button90.Location = new System.Drawing.Point(343, 213);
             this.button90.Name = "button90";
             this.button90.Size = new System.Drawing.Size(95, 36);
             this.button90.TabIndex = 15;
@@ -1526,7 +1526,7 @@ namespace Calculadora_V._1._0
             this.button91.BackColor = System.Drawing.Color.Silver;
             this.button91.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button91.ForeColor = System.Drawing.Color.Black;
-            this.button91.Location = new System.Drawing.Point(408, 171);
+            this.button91.Location = new System.Drawing.Point(343, 171);
             this.button91.Name = "button91";
             this.button91.Size = new System.Drawing.Size(95, 36);
             this.button91.TabIndex = 14;
@@ -1538,7 +1538,7 @@ namespace Calculadora_V._1._0
             this.button92.BackColor = System.Drawing.Color.Silver;
             this.button92.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button92.ForeColor = System.Drawing.Color.Black;
-            this.button92.Location = new System.Drawing.Point(408, 129);
+            this.button92.Location = new System.Drawing.Point(343, 129);
             this.button92.Name = "button92";
             this.button92.Size = new System.Drawing.Size(96, 36);
             this.button92.TabIndex = 13;
@@ -1550,7 +1550,7 @@ namespace Calculadora_V._1._0
             this.button93.BackColor = System.Drawing.Color.Silver;
             this.button93.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button93.ForeColor = System.Drawing.Color.Black;
-            this.button93.Location = new System.Drawing.Point(273, 344);
+            this.button93.Location = new System.Drawing.Point(193, 339);
             this.button93.Name = "button93";
             this.button93.Size = new System.Drawing.Size(96, 36);
             this.button93.TabIndex = 12;
@@ -1562,7 +1562,7 @@ namespace Calculadora_V._1._0
             this.button94.BackColor = System.Drawing.Color.Silver;
             this.button94.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button94.ForeColor = System.Drawing.Color.Black;
-            this.button94.Location = new System.Drawing.Point(273, 302);
+            this.button94.Location = new System.Drawing.Point(193, 297);
             this.button94.Name = "button94";
             this.button94.Size = new System.Drawing.Size(96, 36);
             this.button94.TabIndex = 11;
@@ -1574,7 +1574,7 @@ namespace Calculadora_V._1._0
             this.button95.BackColor = System.Drawing.Color.Silver;
             this.button95.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button95.ForeColor = System.Drawing.Color.Black;
-            this.button95.Location = new System.Drawing.Point(273, 255);
+            this.button95.Location = new System.Drawing.Point(193, 255);
             this.button95.Name = "button95";
             this.button95.Size = new System.Drawing.Size(96, 36);
             this.button95.TabIndex = 10;
@@ -1587,7 +1587,7 @@ namespace Calculadora_V._1._0
             this.button96.BackColor = System.Drawing.Color.Silver;
             this.button96.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button96.ForeColor = System.Drawing.Color.Black;
-            this.button96.Location = new System.Drawing.Point(273, 213);
+            this.button96.Location = new System.Drawing.Point(193, 213);
             this.button96.Name = "button96";
             this.button96.Size = new System.Drawing.Size(96, 36);
             this.button96.TabIndex = 9;
@@ -1599,7 +1599,7 @@ namespace Calculadora_V._1._0
             this.button97.BackColor = System.Drawing.Color.Silver;
             this.button97.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button97.ForeColor = System.Drawing.Color.Black;
-            this.button97.Location = new System.Drawing.Point(273, 171);
+            this.button97.Location = new System.Drawing.Point(193, 171);
             this.button97.Name = "button97";
             this.button97.Size = new System.Drawing.Size(96, 36);
             this.button97.TabIndex = 8;
@@ -1611,7 +1611,7 @@ namespace Calculadora_V._1._0
             this.button98.BackColor = System.Drawing.Color.Silver;
             this.button98.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button98.ForeColor = System.Drawing.Color.Black;
-            this.button98.Location = new System.Drawing.Point(273, 129);
+            this.button98.Location = new System.Drawing.Point(193, 129);
             this.button98.Name = "button98";
             this.button98.Size = new System.Drawing.Size(96, 36);
             this.button98.TabIndex = 7;
@@ -1623,7 +1623,7 @@ namespace Calculadora_V._1._0
             this.button99.BackColor = System.Drawing.Color.Silver;
             this.button99.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button99.ForeColor = System.Drawing.Color.Black;
-            this.button99.Location = new System.Drawing.Point(144, 344);
+            this.button99.Location = new System.Drawing.Point(52, 339);
             this.button99.Name = "button99";
             this.button99.Size = new System.Drawing.Size(96, 36);
             this.button99.TabIndex = 6;
@@ -1635,7 +1635,7 @@ namespace Calculadora_V._1._0
             this.button100.BackColor = System.Drawing.Color.Silver;
             this.button100.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button100.ForeColor = System.Drawing.Color.Black;
-            this.button100.Location = new System.Drawing.Point(144, 297);
+            this.button100.Location = new System.Drawing.Point(52, 297);
             this.button100.Name = "button100";
             this.button100.Size = new System.Drawing.Size(96, 36);
             this.button100.TabIndex = 5;
@@ -1647,7 +1647,7 @@ namespace Calculadora_V._1._0
             this.button101.BackColor = System.Drawing.Color.Silver;
             this.button101.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button101.ForeColor = System.Drawing.Color.Black;
-            this.button101.Location = new System.Drawing.Point(144, 255);
+            this.button101.Location = new System.Drawing.Point(52, 255);
             this.button101.Name = "button101";
             this.button101.Size = new System.Drawing.Size(96, 36);
             this.button101.TabIndex = 4;
@@ -1659,7 +1659,7 @@ namespace Calculadora_V._1._0
             this.button102.BackColor = System.Drawing.Color.Silver;
             this.button102.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button102.ForeColor = System.Drawing.Color.Black;
-            this.button102.Location = new System.Drawing.Point(144, 213);
+            this.button102.Location = new System.Drawing.Point(52, 213);
             this.button102.Name = "button102";
             this.button102.Size = new System.Drawing.Size(96, 36);
             this.button102.TabIndex = 3;
@@ -1671,7 +1671,7 @@ namespace Calculadora_V._1._0
             this.button103.BackColor = System.Drawing.Color.Silver;
             this.button103.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button103.ForeColor = System.Drawing.Color.Black;
-            this.button103.Location = new System.Drawing.Point(144, 171);
+            this.button103.Location = new System.Drawing.Point(52, 171);
             this.button103.Name = "button103";
             this.button103.Size = new System.Drawing.Size(96, 36);
             this.button103.TabIndex = 2;
@@ -1683,7 +1683,7 @@ namespace Calculadora_V._1._0
             this.button104.BackColor = System.Drawing.Color.Silver;
             this.button104.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button104.ForeColor = System.Drawing.Color.Black;
-            this.button104.Location = new System.Drawing.Point(144, 129);
+            this.button104.Location = new System.Drawing.Point(52, 129);
             this.button104.Name = "button104";
             this.button104.Size = new System.Drawing.Size(96, 36);
             this.button104.TabIndex = 1;
@@ -1706,7 +1706,7 @@ namespace Calculadora_V._1._0
             this.button105.BackColor = System.Drawing.Color.Silver;
             this.button105.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button105.ForeColor = System.Drawing.Color.Black;
-            this.button105.Location = new System.Drawing.Point(1049, 302);
+            this.button105.Location = new System.Drawing.Point(1035, 302);
             this.button105.Name = "button105";
             this.button105.Size = new System.Drawing.Size(96, 36);
             this.button105.TabIndex = 44;
@@ -1718,7 +1718,7 @@ namespace Calculadora_V._1._0
             this.button106.BackColor = System.Drawing.Color.Silver;
             this.button106.Font = new System.Drawing.Font("Verdana", 10.01739F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button106.ForeColor = System.Drawing.Color.Black;
-            this.button106.Location = new System.Drawing.Point(1049, 344);
+            this.button106.Location = new System.Drawing.Point(1035, 344);
             this.button106.Name = "button106";
             this.button106.Size = new System.Drawing.Size(96, 36);
             this.button106.TabIndex = 45;
