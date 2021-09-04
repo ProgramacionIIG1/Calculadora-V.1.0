@@ -129,8 +129,8 @@ namespace Calculadora_V._1._0
 
             switch (operacion)
             {
-                case "+" :
-                    Sum = obj3.Summ(primero , segundo);
+                case "+":
+                    Sum = obj3.Summ(primero, segundo);
                     txtPanel.Text = Sum.ToString();
                     break;
 
@@ -149,6 +149,29 @@ namespace Calculadora_V._1._0
                     txtPanel.Text = div.ToString();
                     break;
             }
+        }
+
+        private void modosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (panel2.Enabled == true)
+            {
+                calculadoraEstandarToolStripMenuItem.Enabled = true;
+            }
+        }
+
+        private void calculadoraCientificaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            panel2.Visible = true;
+            panel2.Enabled = true;
+            panel1.Visible = false;
+        }
+
+        private void calculadoraEstandarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            panel1.Visible = true;
+            panel2.Visible = false;
+            panel2.Enabled = false;
         }
     }
     }
