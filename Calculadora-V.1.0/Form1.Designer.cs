@@ -455,10 +455,11 @@ namespace Calculadora_V._1._0
             // 
             // textBox1
             // 
+            this.textBox1.Font = new System.Drawing.Font("Verdana", 11.89565F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(12, 28);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(1167, 74);
+            this.textBox1.Size = new System.Drawing.Size(1167, 63);
             this.textBox1.TabIndex = 0;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
