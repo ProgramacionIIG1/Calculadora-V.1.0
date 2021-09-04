@@ -187,6 +187,11 @@ namespace Calculadora_V._1._0
 
             ayuda.ShowDialog();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 
